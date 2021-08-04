@@ -1,0 +1,19 @@
+{
+    "Records": [
+      {
+        "pokemonName": "Clefairy",
+        "pokemonId": "35",
+        "pokemonType": "Fairy"
+      },
+      {
+        "pokemonName": "Gloom",
+        "pokemonId": "44",
+        "pokemonType": "Grass/Poison"
+      },
+      {
+        "pokemonName": "Bellsprout",
+        "pokemonId": "69",
+        "pokemonType": " Grass/Poison"
+      }
+    ]
+}
